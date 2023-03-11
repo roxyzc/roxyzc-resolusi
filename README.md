@@ -1,2 +1,2 @@
 # roxyzc-resolusi
-Responsitory untuk rencana kedepan
+rencana kedepan
